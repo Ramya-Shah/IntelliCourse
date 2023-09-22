@@ -59,5 +59,9 @@ input{
     margin: 20px;
 }
 
-
-
+p{
+    display: inline;
+    font-size: 30px;
+    position: relative;
+    top: 9px;
+}
